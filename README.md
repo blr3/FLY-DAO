@@ -1,11 +1,6 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# FLY
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+“Presence succeeds in going unnoticed not because it is hidden from view, but because it coincides with our culture. In a sense it is our culture. Culture, after all, is the set of things we do not have to talk about, our private collection of public secrets.” - The Birth of Cool
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+### **About **
+A management agency for minority streetwear designers 
